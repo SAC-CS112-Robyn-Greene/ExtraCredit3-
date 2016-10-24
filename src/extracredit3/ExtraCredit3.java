@@ -46,3 +46,6 @@ public class ExtraCredit3 {
    
     
 }//class
+
+
+// Please add class variable, method and update constructor for Main class
